@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body{
+  background-image: url(./med_1501287150_image.jpg);
+  background-repeat:repeat;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container button{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-bottom: 20px;
+
+}
+
+.container-two button{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-bottom: 20px;
+
+
+  
+}
+
+.container-three button{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-bottom: 20px;
+
+
+}
+.container h4{
+  text-align: center;
+  font-size: 60px;
+  color: greenyellow;
+  margin-bottom: 20px;
+
+
+}
+
+.container-two{
+  text-align: center;
+white-space: normal;
+
+}
+
+.container-three{
+  text-align: center;
+  margin-bottom: 20px;
+
+}
