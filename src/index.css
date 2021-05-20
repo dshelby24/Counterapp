@@ -19,8 +19,10 @@ body{
 
 p{
   text-align: center;
-  font-size: 30px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  font-family:sans-serif;
+  font-weight: 800;
+  color: greenyellow;
 }
 .container button{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -62,3 +64,14 @@ white-space: normal;
   margin-bottom: 20px;
 
 }
+.App{
+  
+  margin-top: 250px;
+  width: 50%;
+  border: 5px solid greenyellow;
+background:rgba(236, 129, 147, 0.75);
+margin-left: 400px;  
+margin-top: 100px;
+
+}
+

@@ -40,7 +40,7 @@ render() {
   return(
     <div className="App">
       <div className="container">
-        <p>Count it up!</p>
+        <p>Lets Count!</p>
         <h4>{this.state.count}</h4>
       </div>
       <div className="container-two">
